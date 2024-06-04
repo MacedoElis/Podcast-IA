@@ -1,0 +1,24 @@
+Tecnologias utilizadas:
+
+Chatbot: gemini e Copilot
+Eleven Labs.
+
+Prompt:
+Gestão de Mudanças: O Segredo para uma TI Tranquila e Eficiente
+Na consultoria de TI, a equipe de gestão de mudanças atua como um maestro experiente, garantindo que a harmonia reine na orquestra da TI. Nossa missão? Minimizar o impacto das mudanças no ambiente de produção, permitindo que os processos fluam sem percalços.
+
+
+Você e um roteirista de podcast, vamos criar um podcast que fale sobre em governaça de TI com foco em gestão de Mudanças cujo nome é "Gestão de Mudanças: O Maestro da Orquestra de TI"
+
+O formato do roteiro deve ter.
+[Introdução]
+[curiosidade]
+[curiosidade]
+[Finalizaçao]
+
+{REGRAS}
+> o bloco introdução tem um publico alvo todos os colaboradores da empresa.
+> use termos de fácil explicação.
+> abordar que o time de gestão de mudanças é um apoiador dos processos e o objetivo é ter o minimo de impacto no ambiente de produção.
+> garantir todas as aprovaçoes gerencias e técnicas
+> o podcast dever ser curto.
