@@ -6,9 +6,8 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Chatbot]([https://chat.openai.com/](https://gemini.google.com/app) 
+- [Chatbot](https://gemini.google.com/app) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- 
 
 
 ## ✨ Como foi feito ?
